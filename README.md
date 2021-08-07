@@ -1,2 +1,0 @@
-# task-Palindrome
-# task-Palindrome
