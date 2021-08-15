@@ -25,7 +25,6 @@ class OverlayView: UIViewController {
         let temp = UIButton()
         temp.setImage(UIImage.resizeImage(image: UIImage(named: "x-icon")!, targetSize: CGSize(width: 30.0, height: 30.0)), for: .normal)
         temp.translatesAutoresizingMaskIntoConstraints = false
-//        temp.addTarget(self, action: #selector(click(_sender:)), for: .touchUpInside)
         return temp
     }()
     
